@@ -1,0 +1,50 @@
+body{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+h4{
+    align-content: center;
+}
+.text-lg-left{
+    align-self: center !important;
+}
+
+/* Div styles  */
+.common{
+font-family: Georgia, 'Times New Roman', Times, serif;
+position: absolute;
+}
+.top{
+top: 0px;
+right: 0px;
+left: 0px;
+}
+.middle{
+    top: 100px;
+    right: 0px;
+    left: 0px;
+}.bottom{
+    bottom: 0px;
+    right: 0px;
+    left: 0px;
+    position: fixed;
+    z-index: 1;
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+    background-color: antiquewhite;
+}
+.imgincep{
+    display: block;
+    margin: auto;
+    border: 5px solid coral;
+    width: 25%;
+}
+.scratchbd{
+    background-color: rgb(208, 204, 149);
+}
+.chrisvid{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
